@@ -1,0 +1,11 @@
+Salmon
+Attributes
+inStock: true
+daysUntilExpiration: 6.2
+dishesUsedIn: ["Grilled Salmon","Sushi Salmon"]
+weight: 24.8
+Methods
+unstock (sets inSock to false)
+updateExpiration (set daysUntilExpiration to 4.5)
+addDish (add "Salmon Poke" to dishesUsedIn)
+changeWeight (set weight to 56.2)
