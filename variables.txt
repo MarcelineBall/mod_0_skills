@@ -1,0 +1,9 @@
+var food = "pizza";
+var is_delicious = true;
+food = "bread";
+var num2 = 2;
+var num7 = 9;
+var quotient = (num7 / num2);
+var songs = ["Up the Wolves","This Year"];
+songs.shift();
+console.log(food.length);
