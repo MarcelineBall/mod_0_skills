@@ -1,0 +1,11 @@
+Class Food
+Attributes
+inStock (boolean)
+daysUntilExpiration (float)
+dishesUsedIn (array)
+weight (float)
+Methods
+unstock (sets inSock to false)
+updateExpiration (updates daysUntilExpiration)
+addDish (add string to dishesUsedIn array)
+changeWeight (updates weight)
