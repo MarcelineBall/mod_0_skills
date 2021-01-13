@@ -1,0 +1,11 @@
+Staff
+Attributes
+isClockedIn (boolean)
+name (string)
+hourlyPay (int)
+jobTitles (array)
+Methods
+clockIn (changes isClockedIn to true)
+changeName (updates name variable)
+changePayRate (updates hourlyPay)
+addJobTitle (adds string to jobTitles array)
