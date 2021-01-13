@@ -1,0 +1,11 @@
+Jessica
+Attributes
+isClockedIn: false
+name: Jacob
+hourlyPay: 11
+jobTitles: ["kitchen","expo","line","cashier"]
+Methods
+clockIn (changes isClockedIn to true)
+changeName (set name to "Jessica")
+changePayRate (set hourlyPay to 12)
+addJobTitle (add "shift manager" to jobTitles)
